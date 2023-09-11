@@ -10,6 +10,10 @@ For more details about FoodInsSeg, please refer to our paper and dataset homepag
 
 [[`Paper`]()] 
 [[`Project`](https://laura990501.github.io/FoodInsSeg_dataset/)]
+
+![FoodInsSeg samples](Fig1_mini_1.jpg)
+
+
 ## download
 To download our dataset, please use the link below:
 
