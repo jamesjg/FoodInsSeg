@@ -1,6 +1,6 @@
 # FoodInsSeg
 
-we build FoodInsSeg, the first ingredient-level food instance segmentation dataset in the food segmentation field. This dataset contains a total of 7,118 food images, which have been annotated with 103 categories and 119,048 segmentation masks at ingredient level. Moreover, we also propose a novel and effective tool, named InsSAM-Tool, which leverages the Segment Anything Model and seamless manual operations to annotate the dataset.
+We build FoodInsSeg, the first ingredient-level food instance segmentation dataset in the food segmentation field. This dataset contains a total of 7,118 food images, which have been annotated with 103 categories and 119,048 segmentation masks at ingredient level. Moreover, we also propose a novel and effective tool, named InsSAM-Tool, which leverages the Segment Anything Model and seamless manual operations to annotate the dataset.
 
 ## introduction
 
@@ -24,11 +24,9 @@ To ensure responsible utilization of the dataset, researchers accessing it shoul
 
     1.The FoodInsSeg dataset is available for academic research only, commercial and any profit purposes are strictly prohibited
     
-    2.Unauthorized redistribution, publication, or dissemination in any form is prohibited.
+    2.We retain the right to terminate access at anytime. Users should voluntarily comply with the agreement.
     
-    3.We retain the right to terminate access at anytime. Users should voluntarily comply with the agreement.
-    
-    4.Please cite our work based on the BibTex information we have provided.
+    3.Please cite our work based on the BibTex information we have provided.
 
 We sincerely hope that FoodInsSeg will contribute to the progress of computer vision and food recognition research. We kindly request that you follow the agreement and properly cite the data source in your work.
 ## dataset structure
@@ -59,7 +57,7 @@ The format of json files shows below:
   "info": info,
   "images": [image],
   "annotations": [annotation],
-  "licenses": [],
+  "licenses": [license],
   "categories":[category]
 }
 
@@ -93,5 +91,10 @@ To evaluate results on this dataset, you can save predicted masks in the [COCO r
 ## visualization
 
 We also provide the [visualization code](https://github.com/jamesjg/FoodInsSeg/blob/main/visualize.py) for COCO data that can conveniently display our dataset.
+
+## license
+
+Dataset is made available under CC BY-NC-SA 4.0 license
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## cite 
