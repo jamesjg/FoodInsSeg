@@ -1,6 +1,6 @@
 # FoodInsSeg
 
-We build FoodInsSeg, the first ingredient-level food instance segmentation dataset in the food segmentation field. This dataset contains a total of 7,118 food images, which have been annotated with 103 categories and 119,048 segmentation masks at ingredient level. Moreover, we also propose a novel and effective tool, named InsSAM-Tool, which leverages the Segment Anything Model and seamless manual operations to annotate the dataset.
+We build FoodInsSeg, the first ingredient-level food instance segmentation dataset in the food segmentation field. This dataset contains a total of 7,118 food images, which have been annotated with 103 categories and 119,048 segmentation masks at ingredient level.
 
 ## introduction
 
