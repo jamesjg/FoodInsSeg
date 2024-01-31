@@ -17,8 +17,8 @@ For more details about FoodInsSeg, please refer to our paper and dataset homepag
 ## download
 To download our dataset, please use the link below:
 
-[[`google drive`](https://drive.google.com/drive/folders/19ooGlULRv1BNXS9_ZS2NdlXWewVI6ORX)]
-[[`baidu netdisk`](https://pan.baidu.com/share/init?surl=Rdb8CHZclrmf5-Gy1xZQ0w&pwd=vzxj)]
+[[`google drive`](https://drive.google.com/file/d/1Wa8_j4flJOMM6a2QGpiPga0r1GC__Rg2/view?usp=drive_link)]
+[[`baidu netdisk`](https://pan.baidu.com/s/1AOokTFEq3C_Gdcan2y-X-w?pwd=zsju )]
 
 To ensure responsible utilization of the dataset, researchers accessing it should adhere to the following guiding principles:
 
